@@ -1,3 +1,6 @@
+# Description
+This repo helps creating unofficial custom presets for https://mapgenie.io/elden-ring/maps/the-lands-between
+
 # Installation
 
 1. Install browser extension "Tamper Monkey" for your browser.
